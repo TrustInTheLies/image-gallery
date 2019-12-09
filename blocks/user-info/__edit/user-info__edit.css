@@ -1,0 +1,13 @@
+.user-info__edit {
+  border: white 1px solid;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 12px;
+  margin-top: 28px;
+}
+
+.user-info__edit:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: #000000;
+}

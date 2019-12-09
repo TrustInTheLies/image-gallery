@@ -1,0 +1,8 @@
+.popup__button_edit {
+  width: 100%;
+  height: 50px;
+  margin-top: 48px;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 18px;
+}
